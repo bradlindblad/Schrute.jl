@@ -1,8 +1,10 @@
-# Schrute.jl
+# Schrute.jl Documentation
 
 ```@index
 ```
-
+```docs
+theOffice()
+```
 
 ```@autodocs
 Modules = [Schrute]
@@ -10,6 +12,3 @@ Modules = [Schrute]
 
 
 
-```@docs
-theOffice()
-```
