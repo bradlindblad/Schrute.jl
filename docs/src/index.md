@@ -10,5 +10,7 @@ theOffice()
 Modules = [Schrute]
 ```
 
+# Tutorial 
+View **[here](../tutorial.html)**
 
 
