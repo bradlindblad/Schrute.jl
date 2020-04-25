@@ -1,5 +1,3 @@
-# Schrute
-
 
 ![](/docs/schrute.png)
 
