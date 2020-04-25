@@ -3,7 +3,7 @@ module Schrute
 export theOffice
 
 
-using CSV 
+using CSV
 using DataFrames
 
 
@@ -12,7 +12,7 @@ const DATA = joinpath(@__DIR__, "theoffice.csv")
 
 
 """
-theOffice()
+    theOffice()
 
 Returns a Data Frame with 12 columns and 55130 rows.
 """
