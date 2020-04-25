@@ -5,7 +5,10 @@ version = "0.1.1"
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FixedSizeStrings = "3ca710bb-85d4-534c-9bae-b7b5d9e27e20"
+StringBuilders = "db12335b-fddc-5e1b-b0ee-42071d21ae50"
 
 [compat]
 CSV = "0.5, 0.6"
@@ -17,4 +20,3 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test"]
-
