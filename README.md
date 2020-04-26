@@ -15,7 +15,9 @@
     <img src="https://codecov.io/gh/bradlindblad/Schrute.jl/branch/master/graph/badge.svg">
   </a>
 
-
+ <a href="https://github.com/invenia/BlueStyle">
+    <img src="https://img.shields.io/badge/code%20style-blue-4495d1.svg">
+  </a>
 
 
 
