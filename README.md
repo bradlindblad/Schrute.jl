@@ -1,11 +1,25 @@
+<p align="center">
+  <img src="/docs/schrute.png" height="200"><br>
+  <a href="https://bradlindblad.github.io/Schrute.jl">
+    <img src="https://img.shields.io/badge/docs-stable-blue.svg">
+  </a>
 
-![](/docs/schrute.png)
+  <a href="https://travis-ci.com/bradlindblad/Schrute.jl">
+    <img src="https://travis-ci.com/bradlindblad/Schrute.jl.svg?branch=master">
+  </a>
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://bradlindblad.github.io/Schrute.jl)
-[![Build Status](https://travis-ci.com/bradlindblad/Schrute.jl.svg?branch=master)](https://travis-ci.com/bradlindblad/Schrute.jl)
-[![Codecov](https://codecov.io/gh/bradlindblad/Schrute.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/bradlindblad/Schrute.jl)
-[![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle)
 
+
+
+  <a href="https://codecov.io/gh/bradlindblad/Schrute.jl">
+    <img src="https://codecov.io/gh/bradlindblad/Schrute.jl/branch/master/graph/badge.svg">
+  </a>
+
+
+
+
+
+</p>
 
 
 ## Installation
