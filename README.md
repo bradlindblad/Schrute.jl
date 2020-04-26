@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/docs/schrute.png" height="200"><br>
+  <img src="/docs/schrute.png" height="500"><br>
   <a href="https://bradlindblad.github.io/Schrute.jl">
     <img src="https://img.shields.io/badge/docs-stable-blue.svg">
   </a>
