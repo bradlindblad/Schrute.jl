@@ -41,3 +41,6 @@ df = theOffice()
 
 ## Tutorial
 [Read the tutorial](https://bradlindblad.github.io/Schrute.jl/tutorial.html)
+
+## Other languages
+Also available in [python](https://github.com/bradlindblad/schrutepy) and [R](https://bradlindblad.github.io/schrute/)
